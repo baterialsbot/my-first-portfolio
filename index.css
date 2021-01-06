@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+}
+ul{
+    list-style-type: none;
+}
+.nav-item {
+    float: left;
+    margin: 12px ;
+    padding-top: 1.5rem;
+    
+    
+}
+.navbar{
+    margin-left: 60rem;
+    padding-bottom: 0.3px
+
+    
+   
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+#name{
+    color: orangered;
+}
+.namesection{
+    width: 30%;
+    margin-left: 130px;
+    margin-top: 8rem;
+    font-size: 2.5rem;
+    float: left;
+    
+    
+}
+
+#h-three{
+    font-size: 15px;
+    font-weight: 200;
+    padding-bottom: 2rem;
+    padding-top: .5rem;
+}
+
+.anchor{
+    text-decoration: none;
+    font-weight: 300;
+    font-size: 20px;
+    background-color: orangered;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 3.5px;
+    background-image: linear-gradient(rgb(185, 56, 56) , orangered);
+    
+}
+.namesection2{
+    width: 40%;
+    float: left;
+    margin-left: 130px;
+    
+}
+.special{
+    margin-bottom: 50rem;
+}
+#namessection2{
+    margin-left: 100px;
+    margin-top: 4.5rem;
+    
+}
+.external{
+    padding: 30px 0 40px 0;
+    font-weight:lighter;
+    font-size: 15px;
+    
+}
+.spanboy{
+    color: orangered;
+}
+.spanitem{
+    border: 2px ;
+    margin-top: 80rem;
+    margin-bottom: 5.5rem;
+    text-align: center;
+    font-size: 25px;
+
+}
+.images{
+    float: left;
+    box-shadow: 0px 0px 10px rgb(214, 211, 211);
+    margin: .9rem;
+    border-radius: 8px;
+    padding: .4rem;
+}
+.sweet{
+    margin-top: 50rem;
+    padding-left: 9rem;
+}
+.lasteclass{
+    border: 2px solid red;
+    padding: 150px;
+    margin-top: 500px;
+
+}
+h6{
+    padding-bottom: 2.5rem;
+    padding-top: .5rem;
+}
+h4{
+    padding-top: 1.5rem;
+}
+.magic{
+    margin-top: 600px;
+    text-align: center;
+    background-image:url("./shapes/Group_33094_1.png" );
+    background-size: 906px 225px;
+    background-repeat: no-repeat;
+    margin-bottom: 200px;
+    padding-bottom: 500px;
+    margin-left: 14rem;
+    
+   
+    
+    
+}
+.magic h1{
+    margin-left: 4.5rem;
+    margin-top: 5.9rem;
+    color: white;
+    font-size: 40px;
+    float: left;
+    
+}
+.supersec{
+    padding-top: 7rem;
+}
+
